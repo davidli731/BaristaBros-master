@@ -45,5 +45,4 @@ public class HomePageActivity extends AppCompatActivity implements NavigationVie
         }
     }
 
-
 }
